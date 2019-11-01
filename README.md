@@ -2,7 +2,7 @@
 
 [![Cloud Posse](https://cloudposse.com/logo-300x69.svg)](https://cloudposse.com)
 
-# dev [![Build Status](https://travis-ci.org/cloudposse/dev.svg?branch=master)](https://travis-ci.org/cloudposse/dev) [![Latest Release](https://img.shields.io/github/release/cloudposse/dev.svg)](https://travis-ci.org/cloudposse/dev/releases) [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com)
+# dev
 
 
 This development harness creates a [monorepo](https://docs.cloudposse.com/glossary/monorepo/) experience for a [polyrepo](https://docs.cloudposse.com/glossary/polyrepo/) architecture by leveraging [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
@@ -94,19 +94,11 @@ git -C projects/example/ submodule update --init
 
 
 
-## Related Projects
-
-Check out these related projects.
-
-- [dev](https://github.com/cloudposse/local-dev-scaffolding) - Local Development Environment Example
-
-
-
 ## Help
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/cloudposse/dev/issues), send us an [email][email] or join our [Slack Community][slack].
+File a GitHub [issue](https://github.com/nliebelt/dev/issues), send us an [email][email] or join our [Slack Community][slack].
 
 ## Commercial Support
 
@@ -133,7 +125,7 @@ Get access to our [Open Source Community Forum][slack] on Slack. It's **FREE** t
 
 ### Bug Reports & Feature Requests
 
-Please use the [issue tracker](https://github.com/cloudposse/dev/issues) to report any bugs or file feature requests.
+Please use the [issue tracker](https://github.com/nliebelt/dev/issues) to report any bugs or file feature requests.
 
 ### Developing
 
@@ -152,7 +144,7 @@ In general, PRs are welcome. We follow the typical "fork-and-pull" Git workflow.
 
 ## Copyright
 
-Copyright © 2017-2018 [Cloud Posse, LLC](https://cloudposse.com)
+Copyright © 2017-2019 [Cloud Posse, LLC](https://cloudposse.com)
 
 
 
@@ -217,10 +209,12 @@ Check out [our other projects][github], [apply for a job][jobs], or [hire us][hi
 
 ### Contributors
 
-|  [![Erik Osterman][osterman_avatar]][osterman_homepage]<br/>[Erik Osterman][osterman_homepage] |
-|---|
+|  [![Erik Osterman][osterman_avatar]][osterman_homepage]<br/>[Erik Osterman][osterman_homepage] | [![Nils Liebelt][nliebelt_avatar]][nliebelt_homepage]<br/>[Nils Liebelt][nliebelt_homepage] |
+|---|---|
 
   [osterman_homepage]: https://github.com/osterman
   [osterman_avatar]: https://github.com/osterman.png?size=150
+  [nliebelt_homepage]: https://github.com/nliebelt
+  [nliebelt_avatar]: https://github.com/nliebelt.png?size=150
 
 

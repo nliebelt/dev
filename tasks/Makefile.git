@@ -1,4 +1,4 @@
-GITHUB_ORG ?= cloudposse
+GITHUB_ORG ?= nliebelt
 GITHUB_API_LIMIT ?= 100
 GITHUB_API_PAGES ?= 3
 

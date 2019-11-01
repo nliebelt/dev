@@ -14,24 +14,24 @@ name: dev
 license: "APACHE2"
 
 # Canonical GitHub repo
-github_repo: cloudposse/dev
+github_repo: nliebelt/dev
 
 # Badges to display
-badges:
-  - name: "Build Status"
-    image: "https://travis-ci.org/cloudposse/dev.svg?branch=master"
-    url: "https://travis-ci.org/cloudposse/dev"
-  - name: "Latest Release"
-    image: "https://img.shields.io/github/release/cloudposse/dev.svg"
-    url: "https://travis-ci.org/cloudposse/dev/releases"
-  - name: "Slack Community"
-    image: "https://slack.cloudposse.com/badge.svg"
-    url: "https://slack.cloudposse.com"
+#badges:
+#  - name: "Build Status"
+#    image: "https://travis-ci.org/cloudposse/dev.svg?branch=master"
+#    url: "https://travis-ci.org/cloudposse/dev"
+#  - name: "Latest Release"
+#    image: "https://img.shields.io/github/release/cloudposse/dev.svg"
+#    url: "https://travis-ci.org/cloudposse/dev/releases"
+#  - name: "Slack Community"
+#    image: "https://slack.cloudposse.com/badge.svg"
+#    url: "https://slack.cloudposse.com"
 
-related:
-  - name: "dev"
-    description: "Local Development Environment Example"
-    url: "https://github.com/cloudposse/local-dev-scaffolding"
+#related:
+#  - name: "dev"
+#    description: "Local Development Environment Example"
+#    url: "https://github.com/cloudposse/local-dev-scaffolding"
 
 # Short description of this project
 description: |-
@@ -104,3 +104,5 @@ quickstart: |-
 contributors:
   - name: "Erik Osterman"
     github: "osterman"
+  - name: "Nils Liebelt"
+    github: "nliebelt"    
